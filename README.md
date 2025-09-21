@@ -220,7 +220,7 @@ docker run -it --rm <image-name>
 
 ---
 
-# :check: 7. Check unit tests with Pytest
+# ✅ 7. Check unit tests with Pytest
 
 pytest # in VSC terminal, if 100% coverage achieved, then move on
 
