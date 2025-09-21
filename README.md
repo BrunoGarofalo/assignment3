@@ -220,7 +220,7 @@ docker run -it --rm <image-name>
 
 ---
 
-# 7. Check unit tests with Pytest
+# :check: 7. Check unit tests with Pytest
 
 pytest # in VSC terminal, if 100% coverage achieved, then move on
 
@@ -241,7 +241,7 @@ git commit -m "Complete Module X"
 git push origin main
 ```
 
-NOTE: app/operations/__init__.py and tests/test_operations.py should be committed together
+:caution: NOTE: app/operations/__init__.py and tests/test_operations.py should be committed together
 
 
 Then submit the GitHub repository link as instructed.
