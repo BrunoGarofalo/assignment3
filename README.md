@@ -235,6 +235,7 @@ After finishing your work:
 git remote add origin <gitHub SSH> #to connect to the remote repository from VSC terminal
 git remote -v # to check that the remote repository was added
 git branch -m master main # to change master branch name to main
+cp -r ../module2_is601/.github/ . #to copy github to the project folder
 git add .
 git status # to check which files have been modified but not committed
 git commit -m "Complete Module X"
